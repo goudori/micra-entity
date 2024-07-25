@@ -1,0 +1,4 @@
+name: Micra_Eighteen
+version: '1.0-SNAPSHOT'
+main: plugin.micra_eighteen.Main
+api-version: '1.20'

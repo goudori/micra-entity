@@ -1,0 +1,4 @@
+name: Micra_Eighteen
+version: '${version}'
+main: plugin.micra_eighteen.Main
+api-version: '1.20'
